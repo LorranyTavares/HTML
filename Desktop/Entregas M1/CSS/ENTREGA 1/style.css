@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+
+    font-family:'Roboto', sans-serif;
+    background-color: #e7f5ff;
+    height: 100vh;
+}
+
+header {
+
+    background-image:url(./Kenzie-Academy-Brasil-Developers-m1-entrega-estilizando-blog-kenzie_LorranyTavares/img/artificial-intelligence-3706562_1920.jpg);
+    padding: 35px;
+    margin: 0px;
+
+}
+
+.title-1 {
+
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+article {
+
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.title-article {
+
+    padding-bottom: 8px;
+
+}
+
+p{
+    line-height: 23px;
+}
+
+.paragraph-citation {
+
+    padding-top: 7px;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    background-color: grey;
+    color: white;
+    border-radius: 3px;
+    padding: 5px;
+    
+}
+    
+a:hover {
+    background-color: black;
+}
+
+.newsletter{
+
+    background-image: url(./Kenzie-Academy-Brasil-Developers-m1-entrega-estilizando-blog-kenzie_LorranyTavares/img/computer-6005017_640.png);
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+input{
+
+    border-radius: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 10px;
+
+}
